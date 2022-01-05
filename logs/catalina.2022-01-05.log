@@ -1,0 +1,128 @@
+05-Jan-2022 15:30:58.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.14
+05-Jan-2022 15:30:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 22:01:36 UTC
+05-Jan-2022 15:30:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.14.0
+05-Jan-2022 15:30:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Jan-2022 15:30:58.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.16.3-microsoft-standard-WSL2
+05-Jan-2022 15:30:58.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jan-2022 15:30:58.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/nhtlong/.sdkman/candidates/java/21.2.0.r8-grl/jre
+05-Jan-2022 15:30:58.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b07
+05-Jan-2022 15:30:58.827 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            GraalVM Community
+05-Jan-2022 15:30:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:30:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:30:58.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:native-image-agent=config-output-dir=tomcat-config
+05-Jan-2022 15:30:58.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=.
+05-Jan-2022 15:30:58.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jan-2022 15:30:58.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=conf/logging.properties
+05-Jan-2022 15:30:58.832 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Jan-2022 15:31:00.189 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:31:00.373 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1754] milliseconds
+05-Jan-2022 15:31:00.416 SEVERE [main] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+05-Jan-2022 15:31:00.418 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jan-2022 15:31:00.419 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.14]
+05-Jan-2022 15:31:00.435 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:33:54.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.14
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 22:01:36 UTC
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.14.0
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.16.3-microsoft-standard-WSL2
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/nhtlong/.sdkman/candidates/java/21.2.0.r8-grl/jre
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b07
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            GraalVM Community
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:33:54.602 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:33:54.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=./
+05-Jan-2022 15:33:54.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jan-2022 15:33:54.603 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=conf/logging.properties
+05-Jan-2022 15:33:54.604 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Jan-2022 15:33:54.818 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:33:54.835 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [339] milliseconds
+05-Jan-2022 15:33:54.855 SEVERE [main] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+05-Jan-2022 15:33:54.856 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jan-2022 15:33:54.857 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.14]
+05-Jan-2022 15:33:54.869 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:34:03.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.14
+05-Jan-2022 15:34:03.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 22:01:36 UTC
+05-Jan-2022 15:34:03.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.14.0
+05-Jan-2022 15:34:03.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Jan-2022 15:34:03.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.16.3-microsoft-standard-WSL2
+05-Jan-2022 15:34:03.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jan-2022 15:34:03.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/nhtlong/.sdkman/candidates/java/21.2.0.r8-grl/jre
+05-Jan-2022 15:34:03.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b07
+05-Jan-2022 15:34:03.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            GraalVM Community
+05-Jan-2022 15:34:03.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:34:03.772 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:34:03.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=./
+05-Jan-2022 15:34:03.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jan-2022 15:34:03.773 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=conf/logging.properties
+05-Jan-2022 15:34:03.774 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Jan-2022 15:34:04.121 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:34:04.158 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [527] milliseconds
+05-Jan-2022 15:34:04.183 SEVERE [main] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+05-Jan-2022 15:34:04.195 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jan-2022 15:34:04.196 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.14]
+05-Jan-2022 15:34:04.217 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:34:15.430 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.14
+05-Jan-2022 15:34:15.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 22:01:36 UTC
+05-Jan-2022 15:34:15.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.14.0
+05-Jan-2022 15:34:15.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Jan-2022 15:34:15.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.16.3-microsoft-standard-WSL2
+05-Jan-2022 15:34:15.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jan-2022 15:34:15.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/nhtlong/.sdkman/candidates/java/21.2.0.r8-grl/jre
+05-Jan-2022 15:34:15.431 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b07
+05-Jan-2022 15:34:15.432 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            GraalVM Community
+05-Jan-2022 15:34:15.432 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:34:15.432 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:34:15.433 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=.
+05-Jan-2022 15:34:15.433 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jan-2022 15:34:15.433 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=conf/logging.properties
+05-Jan-2022 15:34:15.435 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Jan-2022 15:34:15.651 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:34:15.669 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [349] milliseconds
+05-Jan-2022 15:34:15.691 SEVERE [main] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+05-Jan-2022 15:34:15.693 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jan-2022 15:34:15.693 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.14]
+05-Jan-2022 15:34:15.713 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:36:33.567 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.14
+05-Jan-2022 15:36:33.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 22:01:36 UTC
+05-Jan-2022 15:36:33.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.14.0
+05-Jan-2022 15:36:33.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Jan-2022 15:36:33.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.16.3-microsoft-standard-WSL2
+05-Jan-2022 15:36:33.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jan-2022 15:36:33.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/nhtlong/.sdkman/candidates/java/21.2.0.r8-grl/jre
+05-Jan-2022 15:36:33.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b07
+05-Jan-2022 15:36:33.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            GraalVM Community
+05-Jan-2022 15:36:33.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:36:33.569 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:36:33.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=.
+05-Jan-2022 15:36:33.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jan-2022 15:36:33.570 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=conf/logging.properties
+05-Jan-2022 15:36:33.571 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Jan-2022 15:36:33.784 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:36:33.806 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [345] milliseconds
+05-Jan-2022 15:36:33.820 SEVERE [main] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+05-Jan-2022 15:36:33.822 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jan-2022 15:36:33.822 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.14]
+05-Jan-2022 15:36:33.833 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:46:18.433 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.14
+05-Jan-2022 15:46:18.441 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 22:01:36 UTC
+05-Jan-2022 15:46:18.442 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.14.0
+05-Jan-2022 15:46:18.442 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-Jan-2022 15:46:18.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.16.3-microsoft-standard-WSL2
+05-Jan-2022 15:46:18.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Jan-2022 15:46:18.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /home/nhtlong/.sdkman/candidates/java/21.2.0.r8-grl/jre
+05-Jan-2022 15:46:18.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b07
+05-Jan-2022 15:46:18.447 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            GraalVM Community
+05-Jan-2022 15:46:18.448 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:46:18.448 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/nhtlong/tomcat-stuffed
+05-Jan-2022 15:46:18.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:native-image-agent=config-output-dir=tomcat-config
+05-Jan-2022 15:46:18.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=.
+05-Jan-2022 15:46:18.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jan-2022 15:46:18.452 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=conf/logging.properties
+05-Jan-2022 15:46:18.455 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+05-Jan-2022 15:46:19.823 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jan-2022 15:46:20.046 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1813] milliseconds
+05-Jan-2022 15:46:20.090 SEVERE [main] org.apache.catalina.users.MemoryUserDatabase.open The specified user database [conf/tomcat-users.xml] could not be found
+05-Jan-2022 15:46:20.094 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jan-2022 15:46:20.095 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.14]
+05-Jan-2022 15:46:20.107 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
